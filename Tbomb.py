@@ -93,15 +93,18 @@ def update():
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
-    print("\033[94m│     \033[92m▀▛▘     ▗    ▛▀▖       ▌        \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▞▀▖▚▗▘▄ ▞▀▖▙▄▘▞▀▖▛▚▀▖▛▀▖▞▀▖▙▀▖\033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▌▌ ▌▗▚ ▐ ▌ ▖▌ ▌▌ ▌▌▐ ▌▌ ▌▛▀ ▌  \033[94m   │".center(columns+15))
-    print("\033[94m│     \033[92m ▘▝▀ ▘ ▘▀▘▝▀ ▀▀ ▝▀ ▘▝ ▘▀▀ ▝▀▘▘  \033[94m   │".center(columns+15))
+    
+██████╗░░█████╗░███╗░░░███╗██████╗░███████╗██████╗░
+██╔══██╗██╔══██╗████╗░████║██╔══██╗██╔════╝██╔══██╗
+██████╦╝██║░░██║██╔████╔██║██████╦╝█████╗░░██████╔╝
+██╔══██╗██║░░██║██║╚██╔╝██║██╔══██╗██╔══╝░░██╔══██╗
+██████╦╝╚█████╔╝██║░╚═╝░██║██████╦╝███████╗██║░░██║
+╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝  \033[94m   │".center(columns+15))
     print("\033[94m│                              \033[94m          │".center(columns+9))
-    print("\033[94m│ \033[95mAuthor : ToxicNoob Inc.                \033[94m│".center(columns+15))
-    print("│ \033[95mTool   : Unlimited SMS Bomber          \033[94m│".center(columns+9))
-    print("│ \033[95mGitHub : https://github.com/Toxic-Noob \033[94m│".center(columns+9))
-    print("│ \033[95mCoder  : HunterSl4d3              \033[37mV4.1 \033[94m│".center(columns+15))
+    print("\033[94m│ \033[95mAuthor : ᴀʙʜɪ ʏᴀᴅᴀᴠ.                \033[94m│".center(columns+15))
+    print("│ \033[95mᴛᴏᴏʟ   : Unlimited SMS Bomber          \033[94m│".center(columns+9))
+    print("│ \033[95mGitHub : https://github.com/Yadav755 \033[94m│".center(columns+9))
+    print("│ \033[95mCoder  : Abhi yadav              \033[37mV4.1 \033[94m│".center(columns+15))
     print("\033[94m└────────────────────────────────────────┘".center(columns+5))
 
 
