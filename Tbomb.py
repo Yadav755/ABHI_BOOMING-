@@ -1,8 +1,8 @@
 #########################################
-# ToxicBomber
+# ᴀʙʜɪ ʙᴏᴏᴍʙᴇʀ
 # A Bangladeshi SMS Bomber Tool
-# Author: ToxicNoob Inc.
-# GitHub: https://github.com/Toxic-Noob
+# Author: ᴀʙʜɪ ʏᴀᴅᴀᴠ.
+# GitHub: https://github.com/Uadav755
 # Version: 4.1.0
 #########################################
 
